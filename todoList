@@ -1,0 +1,7 @@
+// look for cascade, fetch, orphan in one to one and many to one relationship
+1. update mapping for all models
+ 
+#todo
+ "pan":"7815",
+    "phone",
+    "email" in employee for verification
